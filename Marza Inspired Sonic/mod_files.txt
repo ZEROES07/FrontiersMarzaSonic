@@ -1,2 +1,13 @@
 add raw/character/sonic.pac
+add raw/character/supersonic.pac
+add raw/character/supersonic2.pac
+add raw/character/sonicT.pac
+add raw/character/sonic_birthday.pac
+add raw/character/sonic_crown.pac
+add raw/dlc/dlccrm/dlccrm.pac
+add raw/dlc/dlcddx/dlcddx.pac
+add raw/dlc/dlcholoA/dlcholoA.pac
+add raw/dlc/dlcmhr/dlcmhr_costume_airou.pac
+add raw/dlc/dlcmhr/dlcmhr_costume_helmet.pac
+add raw/dlc/dlcxmas/dlcxmas.pac
 add mod.ini
