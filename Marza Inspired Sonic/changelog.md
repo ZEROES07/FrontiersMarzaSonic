@@ -1,3 +1,5 @@
+## 1.2.1 update
+- Fixed the Korone DLC not having the shoe bones when Super Sonic
 ## 1.2 update
 - Decompressed albedo textures and added Super Sonic 2 materials for all DLC outfits
 - Tweaked Super Sonic 2 materials for consistency with regular Super Sonic
